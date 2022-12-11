@@ -18,7 +18,7 @@ public class OefeningDag2 {
         System.out.println(a);
 
         int g = firstNumber / secondNumber;
-        System.out.println(g); //waarom 0?
+        System.out.println(g); //waarom 0?... ok, int = round number and result is 0,0.....
 
         int t = secondNumber % firstNumber;
         System.out.println(t);

@@ -83,9 +83,7 @@ public class IfStatement {
             System.out.println("Eddy is de oudste");
         } else {
             System.out.println("not one person is the oldest");
-
         }
-
 
     }
 }

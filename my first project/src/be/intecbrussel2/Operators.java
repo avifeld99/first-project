@@ -18,8 +18,6 @@ public class Operators {
         }
 
 
-
-
         int age = 35;
 
         if(age < 10) {

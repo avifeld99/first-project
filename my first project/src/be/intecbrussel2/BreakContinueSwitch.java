@@ -9,13 +9,10 @@ public class BreakContinueSwitch {
         int money = 250;
 
         for(int index = 0; index < money + 1; index++) {
-
             if(index == 120) {
                 System.out.println("shit, i lost 120 :(");
                 break;
             }
-
-
             System.out.println(index);
         }
 

@@ -22,8 +22,9 @@ public class ForLoops {
         }
 
         for(int index = 99; index > 0; index--) {
-            if (index %2 == 1)
-            System.out.println("oneven " + index);
+            if (index %2 == 1) {
+                System.out.println("oneven " + index);
+            }
         }
 
 

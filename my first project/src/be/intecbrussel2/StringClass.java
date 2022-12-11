@@ -96,7 +96,7 @@ public class StringClass {
         char w = 'W';
         char r = 'R';
         char d = 'D';
-        System.out.println(naam11.replace(''));
+        //System.out.println(naam11.replace(''));
 
 
 

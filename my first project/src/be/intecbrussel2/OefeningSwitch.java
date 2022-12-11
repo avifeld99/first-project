@@ -4,8 +4,6 @@ public class OefeningSwitch {
 
     public static void main(String[]args) {
 
-
-
         //switch oefeningen
         //oefening 1
         int time = 24;
@@ -21,8 +19,6 @@ public class OefeningSwitch {
         } else {
             System.out.println("Nope invalid input");
         }
-
-
 
         switch (time) {
             case 1:
